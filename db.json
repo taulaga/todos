@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Lam gi do",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Just do it",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Don't do it",
+      "status": true
+    }
+  ]
+}
